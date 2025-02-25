@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakeryApi", "BakeryApi.csproj", "{7E85DF0C-1FE3-432E-A37F-219E00618FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E85DF0C-1FE3-432E-A37F-219E00618FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E85DF0C-1FE3-432E-A37F-219E00618FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E85DF0C-1FE3-432E-A37F-219E00618FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E85DF0C-1FE3-432E-A37F-219E00618FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17EF444F-3849-4E1F-91D8-BE3B1F17C695}
+	EndGlobalSection
+EndGlobal
